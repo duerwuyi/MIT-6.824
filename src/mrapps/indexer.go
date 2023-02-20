@@ -3,7 +3,7 @@ package main
 //
 // an indexing application "plugin" for MapReduce.
 //
-// go build -buildmode=plugin indexer.go
+// go build -buildmode=plugin indexer.sh.go
 //
 
 import "fmt"
